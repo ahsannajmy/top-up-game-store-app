@@ -1,6 +1,6 @@
 # Top-Up Store Frontend
 
-This is a frontend application for a top-up game store built with [Next.js](https://nextjs.org) and TypeScript. The components are created using a combination of [shadcn](https://shadcn.dev) and [Buou UI](https://buou.dev), and the icons are provided by [Lucide React](https://lucide.dev).
+This is a frontend application for a top-up game store built with [Next.js](https://nextjs.org) and TypeScript. The components are created using a combination of [shadcn](https://ui.shadcn.com) and [Buou UI](https://ui.buoucoding.com/), and the icons are provided by [Lucide React](https://lucide.dev).
 
 ![Store Picture](public/arthur-leywin-logo-main.png)
 
